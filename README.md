@@ -14,11 +14,8 @@
 - 🤖 Passionate about **AI/ML**, NLP, deep learning, and building real-world impactful projects
 - 👨‍💻 Projects include:
   - Web Browser using Python  
-  - Attendance System in Java  
-  - Krishi Kawach - Tech for Farmers  
-  - SafetyGuard – AI-Powered Women’s Safety Platform  
-  - Web Auditing Tool using Nikto, Nmap, Hydra  
-- 🎯 Finalist, Smart India Hackathon (SIH) 2023  
+  - Attendance System in Java 
+  - SafetyGuard – AI-Powered Women’s Safety Platform    
 - 📚 Currently learning: **Deep Learning Specialization (Coursera)** & advanced DSA
 
 ---
