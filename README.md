@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI5/giphy.gif" width="300" alt="rocket-launch gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxZnFqcmNybDFzYnJ0ZWZmcTY1dTQ2ZzRmY3pkbDh4dHFmYXY2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="learning gif" />
 </p>
 
 ---
