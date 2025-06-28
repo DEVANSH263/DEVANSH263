@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212259371-1f8d691d-068f-49ea-a58b-cfe103c9ff0f.jpg" width="150" height="150" style="border-radius: 50%;" alt="Devansh Profile" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Devansh Saini</h1>
 <h3 align="center">Aspiring AI Engineer | B.Tech CSE (AI) Student | Problem Solver | Project Builder</h3>
 
@@ -6,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400" alt="Learning GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="300" alt="Dev GIF" />
 </p>
 
 ---
@@ -18,7 +22,7 @@
 - 🤖 Passionate about **AI/ML**, NLP, deep learning, and building real-world impactful projects
 - 👨‍💻 Projects include:
   - 🧭 Web Browser using Python  
-  - 📸 Attendance System in Java 
+  - 📸 Attendance System in Java  
   - 🛡️ SafetyGuard – AI-Powered Women’s Safety Platform    
 - 📚 Currently learning: **Deep Learning Specialization (Coursera)** & advanced DSA
 
@@ -43,7 +47,7 @@
 ### 🌱 I’m Currently Learning
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300" alt="learning gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300" alt="Learning Dev GIF" />
 </p>
 
 - 🤖 Deep Learning, CNNs, RNNs (LSTM/GRU), NLP  
@@ -78,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" alt="learning gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" alt="Rocket Dev GIF" />
 </p>
 
 ---
@@ -98,4 +102,5 @@
 </p>
 
 ---
+
 > *“Code to solve problems, not just to complete assignments.”* 🚀
