@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400" alt="Learning GIF" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 🌱 I’m Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxZnFqcmNybDFzYnJ0ZWZmcTY1dTQ2ZzRmY3pkbDh4dHFmYXY2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="learning gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300" alt="learning gif" />
 </p>
 
 - 🤖 Deep Learning, CNNs, RNNs (LSTM/GRU), NLP  
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxZnFqcmNybDFzYnJ0ZWZmcTY1dTQ2ZzRmY3pkbDh4dHFmYXY2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="learning gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" alt="learning gif" />
 </p>
 
 ---
