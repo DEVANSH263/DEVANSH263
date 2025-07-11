@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212259371-1f8d691d-068f-49ea-a58b-cfe103c9ff0f.jpg" width="150" height="150" style="border-radius: 50%;" alt="Devansh Profile" />
-</p>
+</p>  
 
 <h1 align="center">Hi 👋, I'm Devansh Saini</h1>
 <h3 align="center">Aspiring AI Engineer | B.Tech CSE (AI) Student | Problem Solver | Project Builder</h3>
