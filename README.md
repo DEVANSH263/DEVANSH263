@@ -57,7 +57,7 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [devanshsaini263@gmail.com](mailto:devanshsaini263@gmail.com)  
+- 📧 Email: [devanshisme@gmail.com](mailto:devanshisme@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/devansh-saini-55b51b295](https://www.linkedin.com/in/devansh-saini-55b51b295/)  
 - 📂 Portfolio: *Coming Soon*
 
